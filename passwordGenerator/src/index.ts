@@ -1,3 +1,3 @@
 import { password } from "./generator";
 
-console.log(password);
+console.log(password(20));
